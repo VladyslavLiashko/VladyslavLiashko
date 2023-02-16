@@ -2,6 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend-developer from Ukraine</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines="Code+is+like+humor. + When+you+have+to+explain+it, +it's+bad" + – Cory+House)](https://git.io/typing-svg)
+<!-- “ Code is like humor. When you have to explain it, it’s bad.” – Cory House -->
+
 <!--
 **VladyslavLiashko/VladyslavLiashko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
