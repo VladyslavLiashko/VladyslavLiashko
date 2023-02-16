@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend-developer from Ukraine</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=1500&pause=1000&lines="Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad"+Cory+House)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=1500&width=1000&pause=1000&lines="Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad"+Cory+House)](https://git.io/typing-svg)
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=15972D&width=435&lines=Get+try+and+you+will+have+success!)](https://git.io/typing-svg) -->
 <!-- “ Code is like humor. When you have to explain it, it’s bad.” – Cory House -->
 
