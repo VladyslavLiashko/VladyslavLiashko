@@ -12,6 +12,7 @@
  ### SKILLS AND TOOLS:
 ![HTML](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=flat&logo=CSS3)
+![SCSS](https://img.shields.io/badge/SASS/SCSS-black?style=flat&logo=SCSS)
 ![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=figma)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
