@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on open source projects, full-time job
 - 📫 How to reach me:  [![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram)](https://t.me/mnogoznall)[![gmail](https://img.shields.io/badge/gmail-white?style=flat&logo=gmail)](https://vladliashko@gmail.com)
 
-SKILLS AND TOOLS:
+ ### SKILLS AND TOOLS:
 ![HTML](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=flat&logo=CSS3)
 ![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=figma)
