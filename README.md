@@ -8,6 +8,19 @@
 - 🌱 I’m currently learning React, Redux
 - 👯 I’m looking to collaborate on open source projects, full-time job
 - 📫 How to reach me:  [![telegram](https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram)](https://t.me/mnogoznall)[![gmail](https://img.shields.io/badge/gmail-white?style=flat&logo=gmail)](https://vladliashko@gmail.com)
+
+SKILLS AND TOOLS:
+![HTML](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=flat&logo=CSS3)
+![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=figma)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/Redux-black?style=flat&logo=redux)
+
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=Git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub)
+![GitLab](https://img.shields.io/badge/GitLab-black?style=flat&logo=GitLab)
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=15972D&width=435&lines=Get+try+and+you+will+have+success!)](https://git.io/typing-svg) -->
 <!-- “ Code is like humor. When you have to explain it, it’s bad.” – Cory House -->
 
